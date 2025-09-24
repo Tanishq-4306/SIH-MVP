@@ -1,0 +1,4 @@
+train_id,train_type,priority,current_location
+1234,Express,3,StationA
+5678,Freight,1,StationB
+

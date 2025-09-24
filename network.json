@@ -1,0 +1,12 @@
+{
+  "nodes": [
+    {"id": "StationA", "type": "station", "name": "Station A"},
+    {"id": "Junction1", "type": "junction", "name": "Junction 1"},
+    {"id": "StationB", "type": "station", "name": "Station B"}
+  ],
+  "edges": [
+    {"id": "TrackA_J1", "from": "StationA", "to": "Junction1", "length_km": 5},
+    {"id": "TrackJ1_B", "from": "Junction1", "to": "StationB", "length_km": 5}
+  ]
+}
+
